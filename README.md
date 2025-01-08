@@ -1,3 +1,11 @@
+酷，多高校开源的一个AI文章检测工具：ImBD(Imitate Before Detect)，可以检测文章是否被AI修改过，能检测纯AI生成的，还能检测被AI润色、改写、扩写的，准确率高
+
+用来检测论文、稿件原创性就非常轻松，它仅使用1000个样本和5分钟的SPO训练就超过了商业的GPT-Zero
+
+检测开源LLM修改文本上提高了13%，检测GPT-3.5和GPT-4o修改的文本上，性能提高了5%和19%
+
+支持像改写、扩写、润色都可以，纯AI生成的检测率能到99.96%，改写87.39%，扩写97.58%，润色97.07%
+
 Copyright (C) 2009 Yu Peng (loneknightpy@gmail.com)
 
 This program is free software; you can redistribute it and/or
